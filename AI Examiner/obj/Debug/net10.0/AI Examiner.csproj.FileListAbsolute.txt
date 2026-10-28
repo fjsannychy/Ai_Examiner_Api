@@ -1,0 +1,150 @@
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\appsettings.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.staticwebassets.runtime.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.staticwebassets.endpoints.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.exe
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.deps.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.runtimeconfig.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.pdb
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Dapper.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\MailKit.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\MimeKit.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\scopedcss\bundle\AI Examiner.styles.css
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Exami.F99CF2F6.Up2Date
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\refint\AI Examiner.dll
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.pdb
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AI Examiner\AI Examiner\obj\Debug\net10.0\ref\AI Examiner.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\appsettings.Development.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\appsettings.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.staticwebassets.runtime.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.staticwebassets.endpoints.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.exe
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.deps.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.runtimeconfig.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\AI Examiner.pdb
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Dapper.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\MailKit.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\MimeKit.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.csproj.AssemblyReference.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.AssemblyInfoInputs.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.AssemblyInfo.cs
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.csproj.CoreCompileInputs.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.MvcApplicationPartsAssemblyInfo.cs
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.MvcApplicationPartsAssemblyInfo.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\scopedcss\bundle\AI Examiner.styles.css
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.development.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\swae.build.ex.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Exami.F99CF2F6.Up2Date
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\refint\AI Examiner.dll
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.pdb
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\AI Examiner.genruntimeconfig.cache
+D:\AspDotNetCoreProject\AI Examiner\AI Examiner\obj\Debug\net10.0\ref\AI Examiner.dll

@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AspDotNetCoreProject\\AI Examiner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\studentexampaperquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\studentexampaperquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\studentquestionoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\studentquestionoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\savedanswerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\savedanswerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\saveanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\saveanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\myexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\myexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\createexamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\createexamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\questionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\questionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\enums\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\enums\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\questiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\questiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\entities\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\entities\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|d:\\aspdotnetcoreproject\\ai examiner\\ai examiner\\models\\dtos\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59E015A-B953-4889-0D28-A8BFC7FA74C2}|AI Examiner\\AI Examiner.csproj|solutionrelative:ai examiner\\models\\dtos\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentExamPaperQuestionDto.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\StudentExamPaperQuestionDto.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\StudentExamPaperQuestionDto.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\StudentExamPaperQuestionDto.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\StudentExamPaperQuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:17:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentQuestionOptionDto.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\StudentQuestionOptionDto.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\StudentQuestionOptionDto.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\StudentQuestionOptionDto.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\StudentQuestionOptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:16:12.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnswersController.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\AnswersController.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Controllers\\AnswersController.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\AnswersController.cs",
+              "RelativeToolTip": "AI Examiner\\Controllers\\AnswersController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:58:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "AI Examiner\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwNUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:53:55.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavedAnswerResponseDto.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\SavedAnswerResponseDto.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\SavedAnswerResponseDto.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\SavedAnswerResponseDto.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\SavedAnswerResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:50:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveAnswerDto.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\SaveAnswerDto.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\SaveAnswerDto.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\SaveAnswerDto.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\SaveAnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:49:45.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyExamDto.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\MyExamDto.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\MyExamDto.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\MyExamDto.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\MyExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T14:40:23.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\Exam.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Exam.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:57:52.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T09:52:19.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AI Examiner\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwNsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:33:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateQuestionRequest.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:17:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateExamRequest.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\CreateExamRequest.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\CreateExamRequest.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\CreateExamRequest.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\CreateExamRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:16:06.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionType.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Enums\\QuestionType.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Enums\\QuestionType.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Enums\\QuestionType.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Enums\\QuestionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:05:07.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\appsettings.json",
+              "RelativeDocumentMoniker": "AI Examiner\\appsettings.json",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\appsettings.json",
+              "RelativeToolTip": "AI Examiner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T16:54:13.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionSet.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionSet.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\QuestionSet.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionSet.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\QuestionSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:04:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionOption.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionOption.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\QuestionOption.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionOption.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\QuestionOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:06:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\Question.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Question.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:05:46.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionGroup.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionGroup.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\QuestionGroup.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\QuestionGroup.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\QuestionGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:04:43.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Grade.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\Grade.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Grade.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:02:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Syllabus.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Syllabus.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\Entities\\Syllabus.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\Entities\\Syllabus.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\Entities\\Syllabus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:01:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserUpdate.cs",
+              "DocumentMoniker": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "AI Examiner\\Models\\DTOs\\UserUpdate.cs",
+              "ToolTip": "D:\\AspDotNetCoreProject\\AI Examiner\\AI Examiner\\Models\\DTOs\\UserUpdate.cs",
+              "RelativeToolTip": "AI Examiner\\Models\\DTOs\\UserUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T08:04:43.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

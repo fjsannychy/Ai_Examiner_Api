@@ -1,0 +1,6 @@
+@AI_Examiner_HostAddress = http://localhost:5115
+
+GET {{AI_Examiner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
